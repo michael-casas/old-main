@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hello there 👋🤓
 
-My name is Michael but people on the Internet call me Schadough.
+### My name is Michael but people on the Internet call me _Schadough_.   
 (yes, you guessed it, _Schadough_ is actually pronounced like _**Shadow**_ :o)
 
 <!--
