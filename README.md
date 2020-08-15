@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Michael but people on the Internet call me Schadough.
+(yes, you guessed it, _Schadough_ is actually pronounced like _**Shadow**_ :o)
+
 <!--
 **Schadough/schadough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
