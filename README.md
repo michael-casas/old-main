@@ -1,7 +1,9 @@
 ## Hello there 👋🤓
 
 ### My name is Michael but people on the Internet call me _Schadough_.   
-(yes, you guessed it, _Schadough_ is actually pronounced like _**Shadow**_ :o)
+(yes, you guessed it, _Schadough_ is actually pronounced like _**Shadow**_ :o)  
+  
+  I'm a Software Developer who focuses primarily on Web and Mobile Applications in React and React Native in Typescript.
 
 <!--
 **Schadough/schadough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
