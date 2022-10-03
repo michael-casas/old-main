@@ -2,8 +2,6 @@
 
 Hi there! I'm Corbin: A Senior Frontend Developer, Founder of [OceanBit](https://oceanbit.dev), developer, and teacher. This is my profile page to outline some of the things I'm working on today.
 
-
-
 <h1><span aria-hidden="true">📚</span> Content</h1>
 
 I've created a wide array of forms of content. I'm passionate about communication between developers and want to do my best to enhance the learning experience that other developers experience.
@@ -13,7 +11,6 @@ I've created a wide array of forms of content. I'm passionate about communicatio
 <a href="https://unicorn-utterances.com"><img alt="" width="128" height="128"  align="right" src="uu_logo.png"/></a>
 
 I've written 100K+ words on a wide range of programming topics. Among them are:
-
 
 - [45+ articles for the blog, Unicorn Utterances](https://crutchcorn.dev)
 - [What is Aggregation in MongoDB?What is Aggregation in MongoDB?](https://www.mongodb.com/basics/aggregation)
@@ -25,7 +22,6 @@ I'm also writing a book trilogy called "The Framework Field Guide", which will t
 
 [!["The Framework Field Guide", the best guide to help you learn advanced Angular, React, and Vue from scratch. Available soon, for free! Join the waitlist here](./frarnework_field_guide.png)](https://framework.guide)
 
-
 <h2><span aria-hidden="true">📷</span> Video</h2>
 
 <a href="https://twitch.tv/crutchcorn" style="display:flex;"><img alt="" width="256" height="256"  align="left" src="twitch.png"/></a>
@@ -34,7 +30,7 @@ On top of a [small foray into TikTok](https://www.tiktok.com/@crutchcorn/video/7
 
 I do my best to engage with the community as much as possible, and have continue to host [charity Livestream events](https://theframedrops.com/), where we've even previously garnered $3k for charity!
 
-I also host a [Discord community for others on Twitch to be able to talk to me](https://discord.gg/FMcvc6T) and do pair-progamming in office hours in order to help solve some of their problems. 
+I also host a [Discord community for others on Twitch to be able to talk to me](https://discord.gg/FMcvc6T) and do pair-progamming in office hours in order to help solve some of their problems.
 
 <br/>
 
@@ -50,12 +46,11 @@ I've spoken at various conferences and meetups about a wide range of programming
 - ["Angular Templates — From Start to Source" at GDG Sacramento](https://www.meetup.com/gdgsacramento/events/tgxqkqyxqbrb/)
 - ["Blogging with Gatsby: An Introduction to Gatsby"](https://www.tracydevs.com/2020/04/blogging-with-gatsby-introduction-to-gatsby/)
 
-
 <h2><span aria-hidden="true">🎙️</span> Podcasts</h2>
 
 <img alt="" width="128" height="128"  align="right" src="content_icon.png"/>
 
-I've done a bit  of podcasting to talk about web development:
+I've done a bit of podcasting to talk about web development:
 
 - [TPDP Episode #29: Asynchronous JavaScript Development](https://www.thepolyglotdeveloper.com/2019/07/tpdp-e29-asynchronous-javascript-development/)
 - [TPDP E32: Getting Familiar with TypeScript for Development](https://www.thepolyglotdeveloper.com/2019/10/tpdp-e32-getting-familiar-typescript-development/)
@@ -63,9 +58,6 @@ I've done a bit  of podcasting to talk about web development:
 - More to be announced soon...
 
 > I'd love to be in **your** podcast! Please [reach out to me on Twitter](https://twitter.com) if you think I'd be a good guest on your show!
-
-
-
 
 <h1><span aria-hidden="true">👨‍💻</span> Code</h1>
 
@@ -110,7 +102,6 @@ Here's a tiny sample:
 ![Toggle switches showing two states with some documentation in a Figma file](https://cdn.crutchcorn.com/github/seaside-sample.png)
 
 Designed by [Eduardo Pratti](https://twitter.com/edpratti/) and [Kevin Aguilar](https://dribbble.com/kevttob), accessibility help from [Evelyn Hathaway](https://github.com/evelynhathaway/) and others, and dev-first API patterns.
-
 
 <h1><span aria-hidden="true">🧑‍🤝‍🧑</span> Socials</h1>
 

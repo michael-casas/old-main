@@ -32,7 +32,8 @@
   "packageManager": "pnpm@7.12.2",
   "lint-staged": {
     "*.{js,ts,jsx,tsx}": [
-      "turbo run lint"
+      "npm run format",
+      "git add"
     ]
   }
 }
