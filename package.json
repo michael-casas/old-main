@@ -11,16 +11,28 @@
     "clean": "turbo run clean",
     "dev": "turbo run dev --parallel",
     "lint": "turbo run lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "lint-staged": "lint-staged",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "prepare": "husky install"
   },
   "devDependencies": {
+    "@commitlint/cli": "latest",
+    "@commitlint/config-conventional": "latest",
     "eslint-config-custom": "workspace:*",
+    "husky": "^8.0.0",
+    "lint-staged": "latest",
     "prettier": "latest",
     "rimraf": "latest",
+    "standard-version": "latest",
     "turbo": "latest"
   },
   "engines": {
     "node": ">=14.0.0"
   },
-  "packageManager": "pnpm@7.12.2"
+  "packageManager": "pnpm@7.12.2",
+  "lint-staged": {
+    "*.{js,ts,jsx,tsx}": [
+      "turbo run lint"
+    ]
+  }
 }

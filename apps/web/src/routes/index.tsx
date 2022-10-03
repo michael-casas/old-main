@@ -1,6 +1,7 @@
-import { component$ } from '@builder.io/qwik';
-import type { DocumentHead } from '@builder.io/qwik-city';
-import { Link } from '@builder.io/qwik-city';
+import { component$ } from "@builder.io/qwik";
+import type { DocumentHead } from "@builder.io/qwik-city";
+import { Link } from "@builder.io/qwik-city";
+import { Logo } from "@michael-casas/ui";
 
 export default component$(() => {
   return (
@@ -124,10 +125,11 @@ export default component$(() => {
       <Link class="mindblow" href="/flower">
         Blow my mind 🤯
       </Link>
+      <Logo />
     </div>
   );
 });
 
 export const head: DocumentHead = {
-  title: 'Welcome to Qwik',
+  title: "Welcome to Qwik",
 };
